@@ -262,6 +262,7 @@
 
 ### Terminal
 
+- [ghostty-designer](https://github.com/reemus-dev/ghostty-designer) - Visual editor for Ghostty with live preview of themes, fonts and window settings. [![Open-Source Software][OSS Icon]](https://github.com/reemus-dev/ghostty-designer) ![Freeware][Freeware Icon]
 - [iTerm 2](https://www.iterm2.com/) - A terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
 
 
